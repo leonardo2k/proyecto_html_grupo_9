@@ -1,4 +1,4 @@
-*{
+{
     box-sizing: border-box;
 }
 
@@ -8,22 +8,7 @@ html{
 body{
     font-family: 'Roboto' , sans-serif;
     margin:0;
-    height: 100vh;
-    background: linear-gradient(#0000, #5c55ca);
-}
-.buscar{
-    position: absolute;
-    padding: 5px;
-}
-.buscar input{
-    width: 240px;
-    height: 40px;
-    padding: 0 20px;
-    font-size: 18px;
-    color: #0000;
-    outline: none;
-    border: 1px solid silver;
-    border-radius: 30px;
+
 }
 
 
@@ -107,7 +92,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("https://png.pngtree.com/thumb_back/fw800/back_pic/02/66/87/73578b94f836a03.jpg");
+    ,url("https://static.misionesonline.news/wp-content/uploads/2022/07/thor.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -167,7 +152,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("https://pics.filmaffinity.com/Spider_Man_No_Way_Home-642739124-large.jpg");
+    ,url("https://pics.filmaffinity.com/El_tel_fono_negro-266389386-large.jpg");
     background-position: center center;
     background-size: cover;
     padding: 50px;
@@ -221,7 +206,7 @@ header a:hover{
     
 }
 
-.carta:nth-child(6){
+.carta:nth-child(5){
     background-image: linear-gradient(
         0deg,
         rgba(0,0,0,0.5),
@@ -282,10 +267,10 @@ header a:hover{
     }
 /* SEGUNDA IMAGEN*/
     #somos-proya .img-container{
-        background-image: url("https://pics.filmaffinity.com/El_tel_fono_negro-266389386-large.jpg");
+        background-image: url("https://www.themoviedb.org/t/p/original/k24F6Fh523CZJpabz1nyUb6Yimu.jpg");
     background-size: cover;
     background-position: center center;
-    height: 500px;
+    height: 700px;
     width: 400px;
 
     }
